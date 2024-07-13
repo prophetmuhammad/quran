@@ -1,17 +1,19 @@
 [intro]
-[female Arabic chanting]
+[female vocalist]
+[vocal group]
+[Islamic]
 امنحني الجنة
-[clap] [clap] [clap]
+[palmas]
 امنحني الجنة
-[clap] [clap] [clap]
+[palmas]
 امنحني الجنة
-[clap] [clap] [clap]
+[palmas]
 
 [break]
 
 [verse 1]
-[male vocals]
-[rhythmic vocals]
+[male vocalist]
+[rhythmic]
 First level of جنة where souls ascend.
 May سلام be upon you and sorrows mend.
 Your عمل rewarded beyond earthly measure.
@@ -22,8 +24,8 @@ Ahhhhhhhhhhhh
 Mmmmmmmmmm
 
 [verse 2]
-[male vocals]
-[rhythmic vocals]
+[male vocalist]
+[rhythmic]
 One level higher, curiosity commands,
 Infinite pleasures, sensory expands.
 Savory feasts or cosmic bands,
@@ -37,7 +39,7 @@ Mmmmmmmmmm
 
 [chorus 1]
 [female vocals]
-[melodious vocals]
+[melodic]
 In heaven's bed our bodies meet.
 Love glows through our rosy cheeks.
 Emotions rise and our whispers sweet.
@@ -48,8 +50,8 @@ Ooooh-laaa-laaa
 Mmmmmmmmmm
 
 [verse 3]
-[male vocals]
-[rhythmic vocals]
+[male vocalist]
+[rhythmic]
 On the third level, quests will appear,
 New odyssey waiting, for a hero without fear.
 Yet with infinite adventure, a void persists,
@@ -60,8 +62,8 @@ Wooohoooooo
 Yeeeaaaaaah
 
 [verse 4]
-[male vocals]
-[rhythmic vocals]
+[male vocalist]
+[rhythmic]
 At level 4, where souls seek their fix,
 A single machine vends, a craving mix.
 With infinite desires, in a pleasure stream,
@@ -73,7 +75,7 @@ Yeeeaaaaaah
 
 [chorus 2]
 [female vocals]
-[melodious vocals]
+[melodic]
 Emotions rise and our whispers sweet.
 Sexual desires unite each heartbeat.
 Soft skin touches and our hips repeat.
@@ -84,8 +86,9 @@ Ooooh-laaa-laaa
 Mmmmmmmmmm
 
 [verse 5]
-[male vocals]
-[rhythmic vocals]
+[male vocalist]
+[a cappella]
+[raw]
 The void on level five, causes sensory deprivation,
 Purge of pleasure, and desire elimination. 
 Golden idols sooth your mind with peace, 
@@ -98,9 +101,8 @@ In shaaa, In shaaa, shaaa shaaa shaaa
 All faaa All faaa, faaa faaa faaa
 
 [verse 6]
-[male vocals]
-[rhythmic vocals]
-[no instrument]
+[male vocalist]
+[rhythmic]
 On level six, our boundaries blend,
 Interfaith orgies, where sex transcend.
 Sacred unions, are bound with grace,
@@ -111,29 +113,42 @@ Allah loves all, in a divine embrace.
 Shiite, Mennonite, Alawite.
 Confucian, Zoroastrian, Christian.
 Atheist, Buddhist, Spiritualist.
-Humanist, Satanist, Taoist.
+Humanist, Satanist, Daoist.
 
 [chorus 3]
 [female vocals]
-[melodious vocals]
+[melodic]
 Soft skin touches and our hips repeat.
 Pleasure soars in our lustful retreat.
-A symphony of rhythm, motion, and skill.
+A symphony of motion, rhythm, and skill.
 Increases the peak of our thrill.
 
 [verse 7]
-[male vocals]
-[rhythmic vocals]
-...
+[male vocalist]
+[rhythmic]
+On level seven, Allah's sight extends,
+Witnessing our love, where moments transcends.
+Perform with creativity, let passion ignite,
+Beneath Allah's watch, our love shines bright.
+
+[verse 8]
+[male vocalist]
+[rhythmic]
+The path to Jannah, deeds are the way,
+Love and reason, guide us each day.
+Unity will grow, regardless of creed,
+In deeds alone, humanity will be freed.
 
 [outro]
-[female Arabic chanting]
+[female vocalist]
+[vocal group]
+[Islamic]
 تجنبني جهنم
-[clap] [clap] [clap]
+[palmas]
 تجنبني جهنم
-[clap] [clap] [clap]
+[palmas]
 تجنبني جهنم
-[clap] [clap] [clap]
+[palmas]
 
 [end]
 
