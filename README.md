@@ -7,4 +7,7 @@
 There is no god but Allah and Prophet Muhammad is his messenger.
 
 # License #
-See [LICENSE.md](LICENSE.md) for details.
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]
