@@ -1,97 +1,95 @@
 [intro]
-[female Arabic chant]
-إن شاء الله, إن شاء الله, إن شاء الله
+[female vocalist]
+[vocal group]
+[Islamic]
+إن شاء الله
+إن شاء الله
+إن شاء الله
 
 [break]
 
-[verse]
+[verse 1]
 [build]
-[female vocals]
-[resonant vocals]
+[female vocalist]
+[polyphonic]
+[angry]
 Forced to bow, to kneel and hide (hide),
 To mask my face, suppress my pride (pride).
 They call it faith, but it's control (control),
-In this dark shroud, I'VE LOST MY SOOOOUL!!!
-[heavy breakdown]
+In this dark shroud, I've Lost My SOOOUUULLL!!!
 
 [break]
 
-[pre-chorus]
-[female Arabic voice]
-البرقع يحرق حياتي
-
-[break]
-
-[chorus]
+[chorus 1]
 [build]
-[female vocals]
-[melodious vocals]
+[female vocalist]
+[melodic]
 In the land, of sand and sun,
 Where Allah's will, is the only one.
 I hide beneath this cloak so tight,
-A veil that steals MY WILL TO FIIIIGHT!!!
-[heavy breakdown]
+A veil that steals My Will To FIIIIGHT!!!
 
 [break]
 
-[verse]
+[verse 2]
 [build]
-[female vocals]
-[resonant vocals]
+[female vocalist]
+[polyphonic]
 I'm not ugly, I’m not a sin (not a sin),
 I’m more than what they see within.
 Buried deep, my spirit cries (spirit cries),
 Behind this mask, my true self DIIIIES...
 
+حرق البرقع
+حرق البرقع
+حرق البرقع
+
 [break]
 
-[pre-chorus]
-[female Arabic vocals]
-البرقع يحرق حياتي
-
-[chorus]
+[chorus 2]
 [build]
-[female vocals]
-[melodious vocals]
+[female vocalist]
+[melodic]
 In the land, of sand and sun,
 Where Allah's will, controls everyone.
 I hide beneath this cloak so tight,
-A veil that steals MY WILL TO FIIIIGHT!!!
-[heavy breakdown]
+A veil that steals My Will To FIIIIGHT!!!
 
 [break]
 
-[bridge]
+[verse 3]
 [build]
-[female vocals]
-[angry vocals]
+[female vocalist]
+[vocal group]
 Burka, Burka, burning my life,
 In your darkness, there’s no light.
 A prison of cloth, a symbol of plight,
-A cage of fabric, WHERE ANGER IGNIIIITS!!!
+A cage of fabric, Where ANGER IGNIIITES!!!
+
+BUUURRRNNN BURKAAA!!!
+BUUURRRNNN BURKAAA!!!
+BUUURRRNNN BURKAAA!!!
+
 [heavy breakdown]
 
-[break]
+[drop]
 
-[pre-chorus]
-[female Arabic chant]
-حرق البرقع, حرق البرقع, حرق البرقع
-
-[chorus]
+[chorus 3]
 [build]
-[female vocals]
-[melodious vocals]
+[female vocalist]
+[melodic]
 In the land of sand and sun,
 Where Allah's will, is the only one.
 I hide beneath this cloak so tight,
-A veil that steals MY WILL TO FIIIIGHT!!!
-[heavy breakdown]
+A veil that steals My Will To FIIIGHT!!!
 
 [break]
 
 [outro]
-[female vocals]
-[melodious vocals]
+[female vocalist]
+[polyphonic]
+[optimistic]
+[uplifting]
 One day we'll tear you, rip you away (rip you away),
 We'll find our voice, we'll have our say (have our say),
 No more shadows, no more lies (no more lies),
