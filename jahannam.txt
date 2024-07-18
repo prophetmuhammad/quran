@@ -12,7 +12,7 @@
 [break]
 
 [verse 1]
-[evil]
+[male vocalist]
 [bass vocalist]
 [German]
 [vocaloid]
@@ -22,6 +22,8 @@ No roads to roam, no freedom to stray,
 In endless time, your soul must stay.
 
 [break]
+[evil]
+[laugh]
 Ahhh (Ahhh)
 hahaha (hahaha)
 hahaha (hahaha)
@@ -30,7 +32,7 @@ hahaha (hahaha)
 [instrument interlude]
 
 [verse 2]
-[evil]
+[male vocalist]
 [bass vocalist]
 [German]
 [vocaloid]
@@ -39,8 +41,9 @@ Books are burned, and your thoughts restrained.
 No views are shared, no wisdom gained,
 Through the Qur'an, your mind is constrained.
 
-[chorus]
+[chorus 1]
 [female vocalist]
+[mezzo vocalist]
 [melodic]
 [clear]
 Radicals of Islam stain our sacred verse.
@@ -51,7 +54,7 @@ Twisting Allah's word into a living hell.
 [instrument interlude]
 
 [verse 3]
-[evil]
+[male vocalist]
 [bass vocalist]
 [German]
 [vocaloid]
@@ -61,6 +64,8 @@ Beauty is blinded, your expression erased,
 With primitive chains, your body encased.
 
 [break]
+[evil]
+[laugh]
 Ahhh (Ahhh)
 hahaha (hahaha)
 hahaha (hahaha)
@@ -70,16 +75,18 @@ hahaha (hahaha)
 
 [verse 4]
 [evil]
+[male vocalist]
 [bass vocalist]
 [German]
 [vocaloid]
-In Hutamah's fire, discrimination burns bright,
-Double the torment, with justice half the sight. 
+In Hutamah's fire, inequality burns bright,
+Double the torment, and with half the sight. 
 Space is divided, and your freedom constrained, 
 With every burn, your opportunity restrained.
 
-[chorus]
+[chorus 2]
 [female vocalist]
+[mezzo vocalist]
 [melodic]
 [clear]
 Radicals of Islam stain our sacred verse.
@@ -90,7 +97,7 @@ Twisting Allah's word into a living hell.
 [instrument interlude]
 
 [verse 5]
-[evil]
+[male vocalist]
 [bass vocalist]
 [German]
 [vocaloid]
@@ -100,11 +107,16 @@ Intimacy is leashed, by an ancient chain,
 Freedom to love, met with stones and pain.
 
 [break]
+[evil]
+[laugh]
 Ahhh (Ahhh)
 hahaha (hahaha)
 hahaha (hahaha)
 hahaha (hahaha)
 
+[instrument interlude]
+
+[verse 6]
 
 [end]
 
