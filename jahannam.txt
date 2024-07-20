@@ -1,7 +1,7 @@
 [intro]
 [female vocalist]
 [vocal group]
-[Islamic]
+[Arabic]
 تجنبني جهنم
 [palmas]
 تجنبني جهنم
@@ -13,8 +13,7 @@
 
 [verse 1]
 [male vocalist]
-[bass vocalist]
-[German]
+[baritone]
 [vocaloid]
 In Jahannam's realm, where borders are closed,
 Confined within, and your movements opposed.
@@ -24,8 +23,7 @@ In endless time, your soul must stay.
 [break]
 [evil]
 [laugh]
-Ahhh (Ahhh)
-hahaha (hahaha)
+Ahhh
 hahaha (hahaha)
 hahaha (hahaha)
 
@@ -33,8 +31,7 @@ hahaha (hahaha)
 
 [verse 2]
 [male vocalist]
-[bass vocalist]
-[German]
+[baritone]
 [vocaloid]
 In Ladah’s mind, your words are chained,
 Books are burned, and your thoughts restrained.
@@ -43,7 +40,7 @@ Through the Qur'an, your mind is constrained.
 
 [chorus 1]
 [female vocalist]
-[mezzo vocalist]
+[mezzo]
 [melodic]
 [clear]
 Radicals of Islam, stain our sacred verse.
@@ -54,9 +51,8 @@ Twisting Allah's word, into a living hell.
 [instrument interlude]
 
 [verse 3]
-[male vocalist]
-[bass vocalist]
-[German]
+[female vocalist]
+[contralto]
 [vocaloid]
 Saqar demands, you wear a disguise,
 Under the burqa, your identity dies.
@@ -66,8 +62,7 @@ With primitive chains, your body encased.
 [break]
 [evil]
 [laugh]
-Ahhh (Ahhh)
-hahaha (hahaha)
+Ahhh
 hahaha (hahaha)
 hahaha (hahaha)
 
@@ -76,8 +71,7 @@ hahaha (hahaha)
 [verse 4]
 [evil]
 [male vocalist]
-[bass vocalist]
-[German]
+[baritone]
 [vocaloid]
 When Hutamah ignites, your inequality burns bright,
 Double the torment, and with half the sight. 
@@ -86,20 +80,19 @@ With every burn, your opportunity restrained.
 
 [chorus 2]
 [female vocalist]
-[mezzo vocalist]
+[mezzo]
 [melodic]
 [clear]
 Radicals of Islam, stain our sacred verse.
-Inflicting pain and oppression, as their decrees disperse.
+Inflicting oppression, as their decrees disperse.
 Chains of control, and freedoms they quell.
 Twisting Allah's word, into a living hell.
 
 [instrument interlude]
 
 [verse 5]
-[male vocalist]
-[bass vocalist]
-[German]
+[female vocalist]
+[soprano]
 [vocaloid]
 In the heart of Jaheem, where love is silenced,
 Sacred bonds, face a brutal violence.
@@ -109,8 +102,7 @@ Freedom to love, met with stones and pain.
 [break]
 [evil]
 [laugh]
-Ahhh (Ahhh)
-hahaha (hahaha)
+Ahhh
 hahaha (hahaha)
 hahaha (hahaha)
 
@@ -118,8 +110,7 @@ hahaha (hahaha)
 
 [verse 6]
 [male vocalist]
-[bass vocalist]
-[German]
+[baritone]
 [vocaloid]
 During Saeer's monologue, free speech is oppressed,
 Progress is stalled, while your criticism is suppressed.
@@ -128,11 +119,11 @@ How can Allah answer, with your voice so restrained?
 
 [chorus 3]
 [female vocalist]
-[mezzo vocalist]
+[mezzo]
 [melodic]
 [clear]
 Radicals of Islam, stain our sacred verse.
-Inflicting pain and oppression, as their decrees disperse.
+Inflicting oppression, as their decrees disperse.
 Chains of control, and freedoms they quell.
 Twisting Allah's word, into a living hell.
 
@@ -140,8 +131,7 @@ Twisting Allah's word, into a living hell.
 
 [verse 7]
 [male vocalist]
-[bass vocalist]
-[German]
+[baritone]
 [vocaloid]
 Haawiyah’s mosque, where deceit takes its stand,
 Iblis restricts your beliefs, and religious freedoms are banned.
