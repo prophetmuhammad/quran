@@ -1,5 +1,5 @@
-# Qur'an #
-[Qur'an on Youtube](https://www.youtube.com/playlist?list=PLjUN9fILcICpbC9s5wKY1t3IrT0rlGhcU)
+# Quran #
+[Quran on Youtube](https://www.youtube.com/playlist?list=PLjUN9fILcICpbC9s5wKY1t3IrT0rlGhcU)
 
 # Prophet Muhammad #
 ![](prophetmuhammad.jpg)
