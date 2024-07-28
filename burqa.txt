@@ -1,6 +1,6 @@
 [intro]
-[female vocalist]
 [vocal group]
+[female vocalist]
 [Islamic]
 إن شاء الله
 إن شاء الله
@@ -10,8 +10,8 @@
 
 [verse 1]
 [build]
+[vocal group]
 [female vocalist]
-[polyphonic]
 [angry]
 Forced to bow, to kneel and hide (hide),
 To mask my face, suppress my pride (pride).
@@ -21,24 +21,23 @@ In this dark shroud, I've Lost My SOOOUUULLL!!!
 [break]
 
 [chorus 1]
-[build]
 [female vocalist]
 [melodic]
-In the land, of sand and sun,
-Where Allah's will, is the only one.
-I hide beneath this cloak so tight,
-A veil that steals My Will To FIIIIGHT!!!
+In the land of sand and sun.
+Where Allah's will is the only one.
+I hide beneath this cloak so tight.
+A veil that steals My Will To FIIIIGHT!
 
 [break]
 
 [verse 2]
 [build]
+[vocal group]
 [female vocalist]
-[polyphonic]
 I'm not ugly, I’m not a sin (not a sin),
 I’m more than what they see within.
 Buried deep, my spirit cries (spirit cries),
-Behind this mask, my true self DIIIIES...
+Behind this mask, my true self DIIIIES!
 
 حرق البرقع
 حرق البرقع
@@ -47,47 +46,48 @@ Behind this mask, my true self DIIIIES...
 [break]
 
 [chorus 2]
-[build]
 [female vocalist]
 [melodic]
-In the land, of sand and sun,
-Where Allah's will, controls everyone.
-I hide beneath this cloak so tight,
-A veil that steals My Will To FIIIIGHT!!!
+In the land of sand and sun.
+Where Allah's will controls everyone.
+I hide beneath this cloak so tight.
+A veil that steals My Will To FIIIIGHT!
 
 [break]
 
 [verse 3]
 [build]
-[female vocalist]
 [vocal group]
+[female vocalist]
 Burqa, Burqa, burning my life,
 In your darkness, there’s no light.
 A prison of cloth, a symbol of plight,
 A cage of fabric, Where ANGER IGNIIITES!!!
 
-Buuurn BURQAAA!!!
-Buuurn BURQAAA!!!
-Buuurn BURQAAA!!!
-
 [heavy breakdown]
+[vocal group]
+[female vocalist]
+[chanting]
+Burn Burn Burn BURQAAA!
+Burn Burn Burn BURQAAA!
+Burn Burn Burn BURQAAA!
 
 [drop]
 
 [chorus 3]
-[build]
 [female vocalist]
 [melodic]
-In the land of sand and sun,
-Where Allah's will, is the only one.
-I hide beneath this cloak so tight,
-A veil that steals My Will To FIIIGHT!!!
+In the land of sand and sun.
+Where Allah's will is the only one.
+I hide beneath this cloak so tight.
+A veil that steals My Will To FIIIIGHT!
 
 [break]
 
 [outro]
+[vocal group]
 [female vocalist]
-[polyphonic]
+[male vocalist]
 [optimistic]
 [uplifting]
 One day we'll tear you, rip you away (rip you away),
@@ -97,5 +97,6 @@ In unity's embrace, our spirits will riiiise...
 
 [end]
 
+[WORK: https://github.com/prophetmuhammad/quran]
 [WORK: (c) by Prophet Muhammad]
 [WORK: CC BY-SA 4.0]
