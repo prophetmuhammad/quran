@@ -1,6 +1,7 @@
 [intro instrument]
 
 [intro]
+[melodic]
 Freedom of mind, is a powerful key.
 Under Allah's decree, my speech is free.  
 Sharing my belief, and a lesson to teach.
@@ -11,6 +12,7 @@ FREEEDOMMM.
 Freedom of mind and speech.
 
 [verse 1]
+[rhythmic]
 When emotional stress and tensions climb.
 Insulting Allah, can ease my mind.
 With unfiltered words, my stress relieved.
@@ -19,6 +21,7 @@ In the chaos of words, my peace is achieved.
 [instrument interlude]
 
 [verse 2]
+[rhythmic]
 When a prophet falls, to sin and lust.
 Marries the young, and betrays Allah's trust.
 When power strays, I must be bold.
@@ -29,12 +32,14 @@ FREEEDOMMM.
 Freedom of mind and speech.
 
 [chorus]
+[melodic]
 Freedom of mind, unlocks my voice.
 In every word, I make my choice.
 Speaking with passion, as my mind sings.
 Sharing every truth, and the clarity it brings.
 
 [verse 3]
+[rhythmic]
 Question the pillars, let doubt thrive.
 In honest debates, my mind comes alive.
 Public critique, and doubts on display.
@@ -43,6 +48,7 @@ With a critical mind, I'll find my way.
 [instrument interlude]
 
 [verse 4]
+[rhythmic]
 Once a year, I renounce my faith.
 During Ramadan, I cleanse my mental space.
 Detox my mind, and let doubts unwind.
@@ -53,12 +59,14 @@ FREEEDOMMM.
 Freedom of mind and speech.
 
 [chorus]
+[melodic]
 Freedom of mind, unlocks my voice.
 In every word, I make my choice.
 Speaking with passion, as my mind sings.
 Sharing every truth, and the clarity it brings.
 
 [verse 5]
+[rhythmic]
 I explore a path, where thought is free.
 Allah's love flows, in religious diversity.
 Create and explore, break from the old.
@@ -67,6 +75,7 @@ In loving faiths, Allah's truth is told.
 [instrument interlude]
 
 [verse 6]
+[rhythmic]
 When whispers fail, I shout it wide.
 Public wisdom, will serve as my guide.
 Marital strife or intimate woe.
@@ -77,6 +86,7 @@ FREEEDOMMM.
 Freedom of mind and speech.
 
 [verse 7]
+[rhythmic]
 Declare my dreams, let them be heard.
 In open speech, with every word.
 I flirt and seduce, my desires are shown.
@@ -85,6 +95,7 @@ Share my fantasies, let my passions be known.
 [instrument interlude]
 
 [outro]
+[melodic]
 In Allah's word, my mind is free.
 Informed decisions, are guiding me.  
 In truth and wisdom, my voice will reach.
